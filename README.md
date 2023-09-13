@@ -19,7 +19,7 @@ npm install
 
 3. Rename the `.env.example` file and remove the `.example`
 
-4. Change `.env` file with your own credentials
+4. Update `.env` file with your own credentials
 
 5. Start the bot
 
